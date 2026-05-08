@@ -10,6 +10,19 @@ Based on [MaxSTM3.6](https://onstep.groups.io/g/main/wiki/26597) by hdutton, lic
 [https://oshwlab.com/gammastellapasta/project_rwiatxym](https://oshwlab.com/gammastellapasta/project_rwiatxym)
 
 ---
+## Features
+
+- STM32F411CEU6 microcontroller (100 MHz system clock)
+- 4-axis stepper motor control
+- 4 interchangeable stepper driver modules
+- Selectable UART or SPI driver communication
+- Integrated MOSFET ideal diode reverse polarity protection
+- Wi-Fi connectivity
+- RS-485 interface
+- Modular driver configuration
+- OnStep compatible
+- TMC driver support
+- High-current power input (max 1xA (work in progress)
 
 ## Images
 <img src="./imgs/pcb4.png" width="70%" height="auto">
