@@ -1,5 +1,5 @@
 # StepSTM_onstep_custom_pcb
-StepSTM for OnStepX
+Custom PCB for [OnStepX](https://github.com/hjd1964/OnStepX)
 
 ## License
 [![License: CC BY-NC-SA 3.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%203.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/3.0/) </br>
