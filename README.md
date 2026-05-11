@@ -25,6 +25,7 @@ Based on [MaxSTM3.6](https://onstep.groups.io/g/main/wiki/26597) by hdutton, lic
 - TMC driver support
 - High-current power input (max 1xA (work in progress)
 
+
 ## Images
 <img src="./imgs/pcb4.png" width="70%" height="auto">
 <img src="./imgs/pcb1.png" width="70%" height="auto">
